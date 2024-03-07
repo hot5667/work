@@ -21,7 +21,10 @@
     <ClCompile Include="main00.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="main08cpp.cpp">
+    <ClCompile Include="main08.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main09.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -130,7 +130,10 @@
     <ClCompile Include="main00.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="main08cpp.cpp" />
+    <ClCompile Include="main08.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="main09.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="수업0307.txt" />
