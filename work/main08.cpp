@@ -1,6 +1,6 @@
 #include <iostream>
 
-// 구조체(struct) -사용자 정의 자료형 user Define DataType
+// 구조체(struct) - 사용자 정의 자료형 user Define DataType
 // 클래스(class) 
 // 멤버를 구성해서 더 큰 단위의 자료형을 설계할 수 있음
 // 멤버를 나열하는 순서로 메모리상에 존재하기 때문에, 크기를 최적화 하기위해서, 큰 자료형 에서 작은 자료형 순서로 정리 하는게 좋다.
