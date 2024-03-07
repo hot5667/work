@@ -127,7 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main00.cpp" />
+    <ClCompile Include="main00.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="main08cpp.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="수업0307.txt" />
