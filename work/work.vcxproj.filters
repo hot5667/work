@@ -32,5 +32,8 @@
     <Text Include="수업0307.txt">
       <Filter>TextFile</Filter>
     </Text>
+    <Text Include="수업0308.txt">
+      <Filter>TextFile</Filter>
+    </Text>
   </ItemGroup>
 </Project>
